@@ -1,0 +1,33 @@
+{
+	"*": {
+		"autocomplete-plus": {
+			"confirmCompletion": "tab"
+		},
+		"core": {
+			"telemetryConsent": "no"
+		},
+		"editor": {
+			"fontSize": 10,
+			"invisibles": {},
+			"showInvisibles": true,
+			"softTabs": false,
+			"tabType": "hard"
+		},
+		"exception-reporting": {
+			"userId": "2da42f68-867a-449b-8525-6bfae2e75868"
+		},
+		"sync-settings": {
+			"hiddenSettings": {},
+			"useOtherLocation": true
+		},
+		"sync-settings-folder-location": {
+			"folderPath": "/home/bioshao/atom_settings"
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/bioshaolin/atom_settings.git"
+		},
+		"welcome": {
+			"showOnStartup": false
+		}
+	}
+}
